@@ -2,6 +2,9 @@
 
 A structured, practical path to mastering Pandas for data analysis, data engineering, and ML preprocessing.
 
+Refernce link : [W3Schools](https://www.w3schools.com/python/pandas/pandas_getting_started.asp),
+                [GeeksForGeek](https://www.geeksforgeeks.org/pandas/pandas-tutorial/)
+
 ---
 
 ## 0. Prerequisites
@@ -35,7 +38,7 @@ Verify installation:
 pip3 show pandas
 ```
 
-Homepage: [https://pandas.pydata.org](https://pandas.pydata.org)
+Homepage: [Pandas Docs](https://pandas.pydata.org)
 
 ---
 
